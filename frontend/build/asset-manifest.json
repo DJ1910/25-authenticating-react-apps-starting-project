@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/25-authenticating-react-apps-starting-project/frontend/static/css/main.c492118a.css",
+    "main.js": "/25-authenticating-react-apps-starting-project/frontend/static/js/main.018fea2b.js",
+    "index.html": "/25-authenticating-react-apps-starting-project/frontend/index.html",
+    "main.c492118a.css.map": "/25-authenticating-react-apps-starting-project/frontend/static/css/main.c492118a.css.map",
+    "main.018fea2b.js.map": "/25-authenticating-react-apps-starting-project/frontend/static/js/main.018fea2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c492118a.css",
+    "static/js/main.018fea2b.js"
+  ]
+}
